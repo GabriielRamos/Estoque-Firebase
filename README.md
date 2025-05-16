@@ -32,16 +32,16 @@ Antes de rodar este projeto, você precisa ter:
 
 # 🚀 Como rodar o projeto:
 
-1. Clone o repositório:
+- 1. Clone o repositório:
     git clone https://github.com/GabriielRamos/Estoque-Firebase
     cd Estoque-Firebase
 
-2. Abra o projeto em uma IDE de sua preferência (Eclipse, IntelliJ, VS Code).
+- 2. Abra o projeto em uma IDE de sua preferência (Eclipse, IntelliJ, VS Code).
 
-3. Edite a URL do Firebase em FirebaseService.java:
+- 3. Edite a URL do Firebase em FirebaseService.java:
     private static final String FIREBASE_URL = "https://SEU-PROJETO.firebaseio.com/";
 
-4. Compile e execute SistemaEstoque.java.
+- 4. Compile e execute SistemaEstoque.java.
 
 # 💡 Exemplo de uso:
 
